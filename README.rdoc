@@ -1,13 +1,13 @@
 Utilizando la API de foursquare (https://developer.foursquare.com/):
 
 - Buscar un usuario por cualquiera de sus parametros 
-(probar con pedrofernandezm@gmail.com bbtosurf@hotmail.com twitter:fashionate). OK 
+(probar con pedrofernandezm@gmail.com bbtosurf@hotmail.com twitter:fashionate).  
 
-- Buscar un negocios (Venues) por cualquiera de sus parametros OK
+- Buscar un negocios (Venues) por cualquiera de sus parametros 
 
-- Obtener los amigos de una persona OK
+- Obtener los amigos de una persona 
 
-- Obtener los comentarios (tips) de un negocio (Venues) OK
+- Obtener los comentarios (tips) de un negocio (Venues) 
 
 - Obtener las medallas de una persona
 
