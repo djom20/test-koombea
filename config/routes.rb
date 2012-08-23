@@ -1,7 +1,5 @@
 Forsquare::Application.routes.draw do
 
- #root :to => "foursquare#index"
-
   root :to => "sessions#new"
 
   resource :session do
