@@ -1,0 +1,23 @@
+<div class="center hero-unit">
+<h2><%= current_user.name %> Profile</h2>
+<table>
+  <tr>
+    <td><b>Photo</b></td>
+    <td><%= image_tag current_user.photo %></td>
+    </tr>
+
+  <tr>
+    <td><b>Full name</b></td>
+    <td><%= "#{current_user.first_name} #{current_user.last_name}"  %></td>
+  </tr>
+
+  <tr>
+    <td><b> Email: </b></td> 
+    <td><%= current_user.email %></td>
+  </tr>
+</table>
+
+
+<div id="checkin-map"></div>
+
+</div>

@@ -1,0 +1,12 @@
+defaults: &defaults
+  app_id: 'PARDGDOCQ0ZBY4OJYP342DSCTS22BX55MMKOXVS2ZMM5OUO2'
+  app_secret: 'BECIJST3RKGT21RIQNKR5CDJTWXNCZMLCOBKHNIGL4JIEW5M'
+
+development:
+  <<: *defaults
+
+test:
+  <<: *defaults
+
+production:
+  <<: *defaults
